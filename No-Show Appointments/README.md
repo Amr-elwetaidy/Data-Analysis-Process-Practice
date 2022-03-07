@@ -19,4 +19,4 @@ I will be analyizing this dataset to explore What factors are important for us t
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](https://github.com/Amr-elwetaidy/Data-Analysis-Process-Practice/tree/master/Raw_Data) within this repo.
+2. Raw Data is being kept [here](https://github.com/Amr-elwetaidy/Data-Analysis-Process-Practice/tree/master/No-Show%20Appointments/Raw_Data) within this repo.
